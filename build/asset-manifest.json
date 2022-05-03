@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.19aa0f34.css",
+    "main.js": "/static/js/main.e7bc731a.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/war_zone.jpg": "/static/media/war_zone.399b1fdf6ac22cbfe759.jpg",
+    "index.html": "/index.html",
+    "main.19aa0f34.css.map": "/static/css/main.19aa0f34.css.map",
+    "main.e7bc731a.js.map": "/static/js/main.e7bc731a.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19aa0f34.css",
+    "static/js/main.e7bc731a.js"
+  ]
+}
